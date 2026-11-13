@@ -9,11 +9,11 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </div>
----
  
 ## 🛠️ Tech Stack
  
 <div align="center">
+  
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,11 +43,11 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  
 </div>
----
  
 ## 🛡️ Cybersecurity & DevSecOps Tools
  
 <div align="center">
+  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00426A?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -62,10 +62,10 @@
  
 </div>
 <div align="center">
+  
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/users/2895202)
  
 </div>
----
  
 <details open>
   <summary><h2>📊 GitHub Profile Stats</h2></summary>
@@ -82,7 +82,6 @@
     </picture>
   </p>
 </details>
----
  
 <!--
 ## 🚀 About Me
